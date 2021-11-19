@@ -5,19 +5,15 @@ description: | # 头像背后的信息（html格式），<br/>代表换行
   金玉满堂，莫之能守</br>
   富贵而骄，自遗其咎</br>
   功成身退，天之道<br/>
-  # 邮箱
   <a href="">
     <i class="fas fa-envelope"></i>
   </a>
-  # github
   <a href="https://github.com/fishingcat97">
     <i class="fab fa-github"></i>
   </a>
-  # 
   <a href="">
     <i class="fas fa-smile"></i>
   </a>
-  # 知乎
   <a href="">
     <i class="fab fa-zhihu"></i>
   </a>
