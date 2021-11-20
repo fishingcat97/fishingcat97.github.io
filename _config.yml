@@ -581,9 +581,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                       }]
                     },
                     "model": [
-                      "https:\/\/cdn.jsdelivr.net/gh/imuncle/live2d/model/snow_miku/model.json",
                       "https:\/\/cdn.jsdelivr.net/gh/imuncle/live2d/model/HyperdimensionNeptunia/vert_normal/index.json",
-                      "https:\/\/cdn.jsdelivr.net/gh/imuncle/live2d/model/sakura/model.json",
                       "https:\/\/cdn.jsdelivr.net/gh/imuncle/live2d/model/illyasviel/illyasviel.model.json",
                       "https:\/\/cdn.jsdelivr.net/gh/imuncle/live2d/model/dollsfrontline/95type_405/normal/model.json",
                       "https:\/\/cdn.jsdelivr.net/gh/imuncle/live2d/model/dollsfrontline/dsr50_2101/normal/model.json",
@@ -593,9 +591,6 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                       "https:\/\/cdn.jsdelivr.net/gh/imuncle/live2d/model/dollsfrontline/ots14_3001/normal/model.json",
                       "https:\/\/cdn.jsdelivr.net/gh/imuncle/live2d/model/dollsfrontline/vector_1901/normal/model.json",
                       "https:\/\/cdn.jsdelivr.net/gh/imuncle/live2d/model/HyperdimensionNeptunia/noir_classic/index.json",
-                      "https:\/\/cdn.jsdelivr.net/gh/imuncle/live2d/model/HyperdimensionNeptunia/noir/index.json",
-                      "https:\/\/cdn.jsdelivr.net/gh/imuncle/live2d/model/HyperdimensionNeptunia/noir_santa/index.json",
-                      "https:\/\/cdn.jsdelivr.net/gh/imuncle/live2d/model/HyperdimensionNeptunia/noireswim/index.json",
                       "https:\/\/cdn.jsdelivr.net/gh/imuncle/live2d/live2d_3/model/Azue Lane(JP)/beierfasite_2/beierfasite_2.model3.json",
                       "https:\/\/cdn.jsdelivr.net/gh/imuncle/live2d/model/mei/model.json"]
                   });'
