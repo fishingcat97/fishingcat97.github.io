@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce4887ff-9cdf-422f-a265-799ed9fc9b07" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_posts/设计模式/2021-11-25-100-UML类图.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/设计模式/2021-11-25-0-UML类图.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/设计模式/2021-11-25-99-设计模式的七大原则.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/设计模式/2021-11-25-1-设计模式的七大原则.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/设计模式/2021-11-25-1-设计模式的七大原则.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/设计模式/2021-11-25-1-设计模式的七大原则.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +77,7 @@
       <workItem from="1637908025611" duration="12014000" />
       <workItem from="1637994344110" duration="592000" />
       <workItem from="1637994947811" duration="467000" />
-      <workItem from="1637995429806" duration="8007000" />
+      <workItem from="1637995429806" duration="10704000" />
     </task>
     <task id="LOCAL-00001" summary="添加yaml头">
       <created>1637758535215</created>
@@ -135,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637932246919</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="接口隔离原则">
+      <created>1638016392247</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1638016392247</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,13 +154,14 @@
     <MESSAGE value="设计模式" />
     <MESSAGE value="单一职责原则" />
     <MESSAGE value="UML类图" />
-    <option name="LAST_COMMIT_MESSAGE" value="UML类图" />
+    <MESSAGE value="接口隔离原则" />
+    <option name="LAST_COMMIT_MESSAGE" value="接口隔离原则" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="392" y="6" key="CommitChangelistDialog2" timestamp="1637932245919">
+    <state x="392" y="6" key="CommitChangelistDialog2" timestamp="1638016391477">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state x="392" y="6" key="CommitChangelistDialog2/0.0.1549.831@0.0.1549.831" timestamp="1637932245919" />
+    <state x="392" y="6" key="CommitChangelistDialog2/0.0.1549.831@0.0.1549.831" timestamp="1638016391477" />
     <state x="555" y="142" key="FileChooserDialogImpl" timestamp="1637995559731">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
@@ -162,10 +170,10 @@
       <screen x="0" y="0" width="1549" height="831" />
     </state>
     <state x="284" y="58" key="SettingsEditor/0.0.1549.831@0.0.1549.831" timestamp="1637995520616" />
-    <state x="367" y="149" key="Vcs.Push.Dialog.v2" timestamp="1637932525746">
+    <state x="367" y="149" key="Vcs.Push.Dialog.v2" timestamp="1638017734969">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state x="367" y="149" key="Vcs.Push.Dialog.v2/0.0.1549.831@0.0.1549.831" timestamp="1637932525746" />
+    <state x="367" y="149" key="Vcs.Push.Dialog.v2/0.0.1549.831@0.0.1549.831" timestamp="1638017734969" />
     <state x="579" y="333" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1638014708587">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
