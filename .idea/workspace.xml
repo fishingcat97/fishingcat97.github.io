@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce4887ff-9cdf-422f-a265-799ed9fc9b07" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_posts/计算机组成原理/2022-03-12-1-计算机系统概论.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/计算机组成原理/2022-03-12-1-计算机系统概论.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +92,7 @@
       <workItem from="1647171949372" duration="3093000" />
       <workItem from="1647175352318" duration="919000" />
       <workItem from="1647176288921" duration="1225000" />
-      <workItem from="1647177532702" duration="246000" />
+      <workItem from="1647177532702" duration="524000" />
     </task>
     <task id="LOCAL-00001" summary="添加yaml头">
       <created>1637758535215</created>
@@ -297,7 +297,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647165124402</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="计算机组成原理第一章">
+      <created>1647178011289</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1647178011290</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -328,10 +335,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="计算机组成原理第一章" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="389" y="0" key="CommitChangelistDialog2" timestamp="1647165123549">
+    <state x="389" y="0" key="CommitChangelistDialog2" timestamp="1647178010467">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="389" y="0" key="CommitChangelistDialog2/0.0.1536.816@0.0.1536.816" timestamp="1647165123549" />
+    <state x="389" y="0" key="CommitChangelistDialog2/0.0.1536.816@0.0.1536.816" timestamp="1647178010467" />
     <state x="392" y="6" key="CommitChangelistDialog2/0.0.1549.831@0.0.1549.831" timestamp="1638604805646" />
     <state x="550" y="139" key="FileChooserDialogImpl" timestamp="1647177444206">
       <screen x="0" y="0" width="1536" height="816" />
