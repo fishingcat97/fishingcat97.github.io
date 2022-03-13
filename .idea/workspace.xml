@@ -94,7 +94,7 @@
       <workItem from="1647175352318" duration="919000" />
       <workItem from="1647176288921" duration="1225000" />
       <workItem from="1647177532702" duration="524000" />
-      <workItem from="1647178855260" duration="247000" />
+      <workItem from="1647178855260" duration="607000" />
     </task>
     <task id="LOCAL-00001" summary="添加yaml头">
       <created>1637758535215</created>
@@ -313,7 +313,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647178946528</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="计算机组成原理第一章">
+      <created>1647179105802</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1647179105802</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -344,10 +351,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="计算机组成原理第一章" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="389" y="0" key="CommitChangelistDialog2" timestamp="1647178945719">
+    <state x="389" y="0" key="CommitChangelistDialog2" timestamp="1647179105082">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="389" y="0" key="CommitChangelistDialog2/0.0.1536.816@0.0.1536.816" timestamp="1647178945719" />
+    <state x="389" y="0" key="CommitChangelistDialog2/0.0.1536.816@0.0.1536.816" timestamp="1647179105082" />
     <state x="392" y="6" key="CommitChangelistDialog2/0.0.1549.831@0.0.1549.831" timestamp="1638604805646" />
     <state x="550" y="139" key="FileChooserDialogImpl" timestamp="1647177444206">
       <screen x="0" y="0" width="1536" height="816" />
