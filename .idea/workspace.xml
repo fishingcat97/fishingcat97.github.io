@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce4887ff-9cdf-422f-a265-799ed9fc9b07" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/计算机组成原理/2022-03-14-2-系统总线.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/image/计算机组成原理/系统总线/以CPU为中心的双总线结构.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/image/计算机组成原理/系统总线/以存储器为中心的双总线结构.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/image/计算机组成原理/系统总线/单总线结构.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/image/计算机组成原理/系统总线/总线上信息的传输.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/计算机组成原理/2022-03-14-2-系统总线.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/计算机组成原理/2022-03-14-2-系统总线.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,6 +97,7 @@
       <workItem from="1647178855260" duration="638000" />
       <workItem from="1647238202057" duration="5206000" />
       <workItem from="1647245225360" duration="545000" />
+      <workItem from="1647250425074" duration="1511000" />
     </task>
     <task id="LOCAL-00001" summary="添加yaml头">
       <created>1637758535215</created>
@@ -333,7 +330,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647179487441</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="总线">
+      <created>1647250445418</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1647250445418</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -361,14 +365,14 @@
     <MESSAGE value="格式调整" />
     <MESSAGE value="原型模式" />
     <MESSAGE value="计算机组成原理第一章" />
-    <option name="LAST_COMMIT_MESSAGE" value="计算机组成原理第一章" />
+    <MESSAGE value="总线" />
+    <option name="LAST_COMMIT_MESSAGE" value="总线" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="389" y="0" key="CommitChangelistDialog2" timestamp="1647179486715">
+    <state x="389" y="0" key="CommitChangelistDialog2" timestamp="1647250444610">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="389" y="0" key="CommitChangelistDialog2/0.0.1536.816@0.0.1536.816" timestamp="1647179486715" />
-    <state x="392" y="6" key="CommitChangelistDialog2/0.0.1549.831@0.0.1549.831" timestamp="1638604805646" />
+    <state x="389" y="0" key="CommitChangelistDialog2/0.0.1536.816@0.0.1536.816" timestamp="1647250444610" />
     <state x="550" y="139" key="FileChooserDialogImpl" timestamp="1647177444206">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
@@ -377,13 +381,9 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="270" y="50" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1647177519030" />
-    <state x="367" y="149" key="Vcs.Push.Dialog.v2" timestamp="1638604811537">
-      <screen x="0" y="0" width="1549" height="831" />
-    </state>
-    <state x="367" y="149" key="Vcs.Push.Dialog.v2/0.0.1549.831@0.0.1549.831" timestamp="1638604811537" />
-    <state x="433" y="149" width="672" height="666" key="search.everywhere.popup" timestamp="1647162290512">
+    <state x="433" y="149" width="672" height="666" key="search.everywhere.popup" timestamp="1647250870404">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="433" y="149" width="672" height="666" key="search.everywhere.popup/0.0.1536.816@0.0.1536.816" timestamp="1647162290512" />
+    <state x="433" y="149" width="672" height="666" key="search.everywhere.popup/0.0.1536.816@0.0.1536.816" timestamp="1647250870404" />
   </component>
 </project>
