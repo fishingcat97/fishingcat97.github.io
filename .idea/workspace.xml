@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce4887ff-9cdf-422f-a265-799ed9fc9b07" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_posts/操作系统/2022-03-14-1-操作系统概述.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/计算机组成原理/2022-03-12-1-计算机系统概论.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/计算机组成原理/2022-03-12-1-计算机系统概论.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/计算机组成原理/2022-03-14-2-系统总线.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/计算机组成原理/2022-03-14-2-系统总线.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/设计模式/2021-11-25-0-UML类图.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/设计模式/2021-11-25-0-UML类图.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +100,7 @@
       <workItem from="1647178855260" duration="638000" />
       <workItem from="1647238202057" duration="5206000" />
       <workItem from="1647245225360" duration="545000" />
-      <workItem from="1647250425074" duration="4322000" />
+      <workItem from="1647250425074" duration="5737000" />
     </task>
     <task id="LOCAL-00001" summary="添加yaml头">
       <created>1637758535215</created>
@@ -344,7 +347,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647251992470</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="总线">
+      <created>1647260627619</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1647260627619</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -376,10 +386,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="总线" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="389" y="0" key="CommitChangelistDialog2" timestamp="1647251991773">
+    <state x="456" y="211" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1647261931511">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="389" y="0" key="CommitChangelistDialog2/0.0.1536.816@0.0.1536.816" timestamp="1647251991773" />
+    <state x="456" y="211" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.816@0.0.1536.816" timestamp="1647261931511" />
+    <state x="389" y="0" key="CommitChangelistDialog2" timestamp="1647260626858">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="389" y="0" key="CommitChangelistDialog2/0.0.1536.816@0.0.1536.816" timestamp="1647260626858" />
     <state x="550" y="139" key="FileChooserDialogImpl" timestamp="1647177444206">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
