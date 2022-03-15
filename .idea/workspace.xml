@@ -98,7 +98,7 @@
       <workItem from="1647238202057" duration="5206000" />
       <workItem from="1647245225360" duration="545000" />
       <workItem from="1647250425074" duration="6360000" />
-      <workItem from="1647323302770" duration="4354000" />
+      <workItem from="1647323302770" duration="4611000" />
     </task>
     <task id="LOCAL-00001" summary="添加yaml头">
       <created>1637758535215</created>
@@ -359,7 +359,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647263188778</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="总线">
+      <created>1647330183070</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1647330183070</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -395,10 +402,10 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="456" y="211" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.816@0.0.1536.816" timestamp="1647261931511" />
-    <state x="389" y="0" key="CommitChangelistDialog2" timestamp="1647263187969">
+    <state x="389" y="0" key="CommitChangelistDialog2" timestamp="1647330182243">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="389" y="0" key="CommitChangelistDialog2/0.0.1536.816@0.0.1536.816" timestamp="1647263187969" />
+    <state x="389" y="0" key="CommitChangelistDialog2/0.0.1536.816@0.0.1536.816" timestamp="1647330182243" />
     <state x="550" y="139" key="FileChooserDialogImpl" timestamp="1647177444206">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
