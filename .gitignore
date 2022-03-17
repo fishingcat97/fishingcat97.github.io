@@ -44,3 +44,5 @@ validation-report.json
 vendor
 node_modules
 bower_components
+
+workspace.xml
