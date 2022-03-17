@@ -2,18 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce4887ff-9cdf-422f-a265-799ed9fc9b07" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/计算机组成原理/2022-03-15-3-存储器.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/image/计算机组成原理/存储器/CPU-缓存-主存-缓存层次图.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/image/计算机组成原理/存储器/主存和CPU的关系.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/image/计算机组成原理/存储器/主存寻址图.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/image/计算机组成原理/存储器/主存的基本组成.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/image/计算机组成原理/存储器/半导体存储芯片基本结构.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/image/计算机组成原理/存储器/存储器分层结构图.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/image/计算机组成原理/存储器/存储器分类.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image/计算机组成原理/存储器/16×1字节线选法内存结构示意图.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image/计算机组成原理/存储器/1K×1位重合法结构示意图.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image/计算机组成原理/存储器/Intel1103.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image/计算机组成原理/存储器/Intel2114写.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image/计算机组成原理/存储器/Intel2114外部特征.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image/计算机组成原理/存储器/Intel2114读.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image/计算机组成原理/存储器/三管MOS动态RAM基本电路.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image/计算机组成原理/存储器/单管MOS动态RAM基本电路.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image/计算机组成原理/存储器/静态RAM基本电路.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image/计算机组成原理/存储器/静态RAM基本电路的写操作.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image/计算机组成原理/存储器/静态RAM基本电路的读操作.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/操作系统/2022-03-14-1-操作系统概述.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/操作系统/2022-03-14-1-操作系统概述.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/计算机组成原理/2022-03-12-1-计算机系统概论.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/计算机组成原理/2022-03-12-1-计算机系统概论.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/计算机组成原理/2022-03-14-2-系统总线.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/计算机组成原理/2022-03-14-2-系统总线.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/计算机组成原理/2022-03-15-3-存储器.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/计算机组成原理/2022-03-15-3-存储器.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +27,11 @@
     </execution>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
@@ -114,7 +120,9 @@
       <workItem from="1647347368825" duration="2068000" />
       <workItem from="1647412604234" duration="19000" />
       <workItem from="1647412720051" duration="5817000" />
-      <workItem from="1647430453173" duration="6294000" />
+      <workItem from="1647430453173" duration="6417000" />
+      <workItem from="1647496341270" duration="9636000" />
+      <workItem from="1647521579618" duration="1919000" />
     </task>
     <task id="LOCAL-00001" summary="添加yaml头">
       <created>1637758535215</created>
@@ -389,7 +397,21 @@
       <option name="project" value="LOCAL" />
       <updated>1647330420544</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="存储器">
+      <created>1647438149103</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1647438149103</updated>
+    </task>
+    <task id="LOCAL-00041" summary="存储器">
+      <created>1647438165041</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1647438165041</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -418,17 +440,18 @@
     <MESSAGE value="原型模式" />
     <MESSAGE value="计算机组成原理第一章" />
     <MESSAGE value="总线" />
-    <option name="LAST_COMMIT_MESSAGE" value="总线" />
+    <MESSAGE value="存储器" />
+    <option name="LAST_COMMIT_MESSAGE" value="存储器" />
   </component>
   <component name="WindowStateProjectService">
     <state x="456" y="211" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1647261931511">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="456" y="211" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.816@0.0.1536.816" timestamp="1647261931511" />
-    <state x="389" y="0" key="CommitChangelistDialog2" timestamp="1647438148470">
+    <state x="389" y="0" key="CommitChangelistDialog2" timestamp="1647438164528">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="389" y="0" key="CommitChangelistDialog2/0.0.1536.816@0.0.1536.816" timestamp="1647438148470" />
+    <state x="389" y="0" key="CommitChangelistDialog2/0.0.1536.816@0.0.1536.816" timestamp="1647438164528" />
     <state x="550" y="139" key="FileChooserDialogImpl" timestamp="1647177444206">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
