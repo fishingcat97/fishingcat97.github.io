@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ce4887ff-9cdf-422f-a265-799ed9fc9b07" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/fishingcat97.github.io.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/计算机组成原理/2022-03-20-4-输入输出系统.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/image/计算机组成原理/输入输出系统/IO指令格式.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/image/计算机组成原理/输入输出系统/串行联络.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/image/计算机组成原理/输入输出系统/并行联络.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/image/计算机组成原理/输入输出系统/辐射式连接.jpg" afterDir="false" />
+    <list default="true" id="ce4887ff-9cdf-422f-a265-799ed9fc9b07" name="Default Changelist" comment="I/O设备">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/计算机组成原理/2022-03-20-4-输入输出系统.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/计算机组成原理/2022-03-20-4-输入输出系统.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,28 +118,9 @@
       <workItem from="1647676164324" duration="12487000" />
       <workItem from="1647763226245" duration="129000" />
       <workItem from="1647765436714" duration="1226000" />
-      <workItem from="1647776848684" duration="6059000" />
-    </task>
-    <task id="LOCAL-00001" summary="添加yaml头">
-      <created>1637758535215</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1637758535215</updated>
-    </task>
-    <task id="LOCAL-00002" summary="根据标签文件夹分类管理">
-      <created>1637758960113</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1637758960113</updated>
-    </task>
-    <task id="LOCAL-00003" summary="设计模式">
-      <created>1637908089270</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1637908089270</updated>
+      <workItem from="1647776848684" duration="6087000" />
+      <workItem from="1647849175325" duration="5539000" />
+      <workItem from="1647866516004" duration="4147000" />
     </task>
     <task id="LOCAL-00004" summary="单一职责原则">
       <created>1637927626581</created>
@@ -471,7 +444,28 @@
       <option name="project" value="LOCAL" />
       <updated>1647763261470</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="I/O">
+      <created>1647784252934</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1647784252934</updated>
+    </task>
+    <task id="LOCAL-00051" summary="I/O设备">
+      <created>1647854932800</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1647854932801</updated>
+    </task>
+    <task id="LOCAL-00052" summary="I/O设备">
+      <created>1647870812525</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1647870812526</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -501,7 +495,9 @@
     <MESSAGE value="计算机组成原理第一章" />
     <MESSAGE value="总线" />
     <MESSAGE value="存储器" />
-    <option name="LAST_COMMIT_MESSAGE" value="存储器" />
+    <MESSAGE value="I/O" />
+    <MESSAGE value="I/O设备" />
+    <option name="LAST_COMMIT_MESSAGE" value="I/O设备" />
   </component>
   <component name="WindowStateProjectService">
     <state x="456" y="211" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1647261931511">
@@ -516,10 +512,10 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="531" y="237" key="#com.intellij.tools.ToolEditorDialog/0.0.1536.816@0.0.1536.816" timestamp="1647595718330" />
-    <state x="389" y="0" key="CommitChangelistDialog2" timestamp="1647763260574">
+    <state x="389" y="0" key="CommitChangelistDialog2" timestamp="1647870811794">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="389" y="0" key="CommitChangelistDialog2/0.0.1536.816@0.0.1536.816" timestamp="1647763260574" />
+    <state x="389" y="0" key="CommitChangelistDialog2/0.0.1536.816@0.0.1536.816" timestamp="1647870811794" />
     <state x="147" y="70" key="DiffContextDialog" timestamp="1647523879741">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
